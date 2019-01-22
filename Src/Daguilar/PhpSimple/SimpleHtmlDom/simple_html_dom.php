@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleHtmlDom;
+namespace Daguilar\PhpSimple\SimpleHtmlDom;
 
 /**
  * Website: http://sourceforge.net/projects/simplehtmldom/

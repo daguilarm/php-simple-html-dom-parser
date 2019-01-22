@@ -26,6 +26,6 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-0": { "Daguilarm\\PhpSimple\\HtmlDomParser": "Src/" }
+        "psr-0": { "Daguilar\\PhpSimple\\HtmlDomParser": "Src/" }
     }
 }

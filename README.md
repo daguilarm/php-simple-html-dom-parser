@@ -20,7 +20,7 @@ Install
  composer.phar
 ```json
 "require": {
-    "daguilarm/php-simple-html-dom-parser": "^2.0"
+    "daguilar/php-simple-html-dom-parser": "^2.0"
     }
 ```
 

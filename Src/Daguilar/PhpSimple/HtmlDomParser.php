@@ -1,6 +1,6 @@
 <?php
 
-namespace Daguilarm\PhpSimple;
+namespace Daguilar\PhpSimple;
 
 require 'SimpleHtmlDom'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
 

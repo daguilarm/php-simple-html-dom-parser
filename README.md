@@ -1,7 +1,7 @@
 php-simple-html-dom-parser
 ==========================
 
-Version 1.5.2
+Version 2.0 (Updated to PHP 7.1, 7.2 and 7.3)
 
 Adaptation for Composer and PSR-0 of:
 
@@ -20,7 +20,7 @@ Install
  composer.phar
 ```json
 "require": {
-    "sunra/php-simple-html-dom-parser": "1.5.2"
+    "daguilarm/php-simple-html-dom-parser": "1.5.2"
     }
 ```
 

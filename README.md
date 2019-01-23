@@ -11,8 +11,11 @@ Supports invalid HTML.
 Find tags on an HTML page with selectors just like jQuery.
 Extract contents from HTML in a single line.
 
+From:
 http://simplehtmldom.sourceforge.net/
 
+Version:
+Rev. 1.8.1 (247)
 
 Install
 -------
@@ -20,7 +23,7 @@ Install
  composer.phar
 ```json
 "require": {
-    "daguilarm/php-simple-html-dom-parser": "1.5.2"
+    "daguilar/php-simple-html-dom-parser": "^2.1.1.x-dev"
     }
 ```
 
@@ -28,7 +31,7 @@ Usage
 -----
 
 ```php
-use Sunra\PhpSimple\HtmlDomParser;
+use Daguilar\PhpSimple\HtmlDomParser;
 
 ...
 $dom = HtmlDomParser::str_get_html( $str );
